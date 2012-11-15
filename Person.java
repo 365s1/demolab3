@@ -6,7 +6,11 @@ public class Person {
 
 	public static void main (String []args) {
 
+
  ZZZZZZZZZZZZZZZZZZZZZZZZ
+		//bugfix2000
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+>>>>>>> bugfix200
 	
 	}
 }
